@@ -1,0 +1,412 @@
+----- 10/10/2020 17:10:23 - Koe Maguin Tade Puma (191.53.50.11) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Sat Oct 10 17:09:33 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel CORE I3-4
+Video Card: Intel (R) HD GR
+Last Packet Types: 160 160 160 160 109 109 160 160 160 160
+Last Packet: 160 179 016 179 016 116 144 005 000 184 217 109 071 161 001 082
+Player Position: [32344,32214,7]
+Player Name: Koe Maguin Tade Puma (Order-Global)
+Player Action: 049 055 055 046 049 046 049 049 051 046 049 054 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 22061E0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Comment: 
+----- 11/10/2020 23:13:21 - Jeanzin (187.75.111.185) -----
+Debug Assertion 8.60 Objects.cpp 277
+Sun Oct 11 23:13:01 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 103 109 030 030 030 030 030 030 030 030
+Last Packet: 109 172 130 106 127 011 001 172 130 107 127 011 103 166 046 000
+Player Position: [33452,32619,11]
+Player Name: Mohamed Kellyhabah [3] (Level 491)
+Player Action: 049 055 057 046 050 053 052 046 049 051 049 046 050 052 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 103) (MainWindow = 57351240), reason:
+Communication.cpp 1720: exception occurred, reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 13), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 98), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 33777), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 14/10/2020 03:09:04 - Shevtchenko (187.180.184.219) -----
+Debug Assertion 8.60 Objects.cpp 277
+Wed Oct 14 03:07:54 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 180 030 030 030 030 030 102 109
+Last Packet: 180 025 022 000 085 115 105 110 103 032 116 104 101 032 108 097
+Player Position: [32942,32678,7]
+Player Name: Mohamed Kellyhabah [0] (Level 327)
+Player Action: 049 055 057 046 050 053 053 046 050 049 050 046 053 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 47256904), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 32942) (PlayerY = 32678), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 98), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 33777), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+
+----- 14/10/2020 16:19:10 - Dell Core Icinco (187.75.111.185) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Wed Oct 14 16:15:38 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 160 160 160 160 160 160 140 180 132 131
+Last Packet: 140 013 000 000 016 100 160 092 018 092 018 038 061 001 000 057
+Player Position: [33035,32457,7]
+Player Name: Dell Core Icinco (Epic War Server)
+Player Action: 049 056 055 046 053 053 046 049 053 048 046 049 054 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 35D0BB8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000000)
+Comment: 
+----- 14/10/2020 21:22:36 - Zoio Do Alek (127.0.0.1) -----
+Debug Assertion 8.60 Objects.cpp 277
+Wed Oct 14 21:20:46 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 110 180 172 172 172 142 180 180 180 160
+Last Packet: 110 000 038 011 008 000 098 097 099 107 112 097 099 107 020 000
+Player Position: [32369,32241,7]
+Player Name: Zoio Do Alek (Epic War Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 83032192), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 43521) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 43521) (ObjectProperties->high() = 33777), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 15/10/2020 13:18:13 - Zoio Do Alek (127.0.0.1) -----
+Debug Assertion 8.60 Control.cpp 1325
+Thu Oct 15 13:13:05 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 001 113 160 112 121 110 030 030 107 030
+Last Packet: 121 006 112 000 197 102 160 079 001 079 001 255 255 255 255 156
+Player Position: [32373,32232,7]
+Player Name: Zoio Do Alek (Epic War Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 1) (MainWindow = 83036128), reason:
+Control.cpp 1325: unknown packet type during game (Type = 1)
+Comment: 
+----- 15/10/2020 13:21:17 - Paladin (127.0.0.1) -----
+Debug Assertion 8.60 Control.cpp 1325
+Thu Oct 15 13:19:34 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 001 113 160 112 121 109 111 111 180 110
+Last Packet: 121 006 112 001 197 102 160 183 007 183 007 218 007 004 000 227
+Player Position: [32369,32241,7]
+Player Name: Paladin (Epic War Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 1) (MainWindow = 82310992), reason:
+Control.cpp 1325: unknown packet type during game (Type = 1)
+
+----- 15/10/2020 13:24:14 - Paladin (127.0.0.1) -----
+Debug Assertion 8.60 Objects.cpp 277
+Thu Oct 15 13:23:57 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 110 109 110 180 172 172 172 180 180 180
+Last Packet: 110 000 169 022 017 000 106 101 119 101 108 108 101 100 032 098
+Player Position: [32369,32241,7]
+Player Name: Paladin (Epic War Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 82455576), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 55886) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 55886) (ObjectProperties->high() = 33777), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 15/10/2020 20:45:55 - Saco De Pon (179.228.82.33) -----
+Debug Assertion 8.60 Objects.cpp 277
+Thu Oct 15 17:22:46 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 40 MaW: 27B5C48 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 40), reason:
+Dialogs.cpp 652: exception occurred, reason:
+Dialogs.cpp 4306: exception occurred, reason:
+Dialogs.cpp 4368: exception occurred (Number = 2), reason:
+Objects.cpp 280: exception occurred (Type = 23375) (Flag = 7), reason:
+Objects.cpp 277: assertion failed (Type = 23375) (ObjectProperties->high() = 12048), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 19/10/2020 18:59:16 - Paladin (127.0.0.1) -----
+Debug Assertion 8.60 Objects.cpp 277
+Mon Oct 19 16:29:45 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 100 108 103 109 030 030 030 030 030 030
+Last Packet: 109 180 128 176 127 006 003 180 128 177 127 006 103 252 003 037
+Player Position: [32948,32690,7]
+Player Name: Mohamed Kellyhabah [5] (Level 443)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 83641584), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 32948) (PlayerY = 32690), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 98), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 33777), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 19/10/2020 18:59:36 - Paladin (127.0.0.1) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Mon Oct 19 18:59:22 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 180 172 172 172 180 180 180 160 162 143
+Last Packet: 010 050 000 000 016 050 000 001 100 112 126 243 125 006 152 001
+Player Position: [32368,32243,6]
+Player Name: Paladin (Epic War Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 4F93290 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Comment: 
+----- 19/10/2020 20:59:43 - Shevtchenko (187.180.184.219) -----
+Debug Assertion 8.60 Control.cpp 1325
+Mon Oct 19 21:58:30 2020
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 001 106 030 107 109 030 030 030 106 107
+Last Packet: 106 171 126 058 128 009 001 098 000 100 134 000 064 100 002 035
+Player Position: [32428,32832,9]
+Player Name: Mohamed Kellyhabah [17] (Level 446)
+Player Action: 049 055 055 046 054 046 049 049 056 046 050 051 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 1) (MainWindow = 46667672), reason:
+Control.cpp 1325: unknown packet type during game (Type = 1)
+Comment: 
+----- 18/11/2021 21:07:27 - ADM (168.121.148.75) -----
+Debug Assertion 8.60 Communication.cpp 3104
+Thu Nov 18 20:58:10 2021
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 200 101 109 104 109 030 109 101 109 101
+Last Packet: 200 075 000 125 132 076 000 000 097 075 000 010 000 071 097 109
+Player Position: [32347,32226,7]
+Player Name: ADM (New War Server)
+Player Action: 051 052 046 049 050 053 046 055 052 046 055 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 50232560), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 97), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Comment: 
+----- 19/11/2021 20:34:59 - ADM (168.121.148.75) -----
+Debug Assertion 8.60 Objects.cpp 277
+Fri Nov 19 00:11:03 2021
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 100 010 031 100 020 100 020 000 000 000
+Last Packet: 010 004 000 000 016 050 000 001 100 091 126 222 125 006 102 003
+Player Name: ADM [0] (Level 301)
+Player Action: 051 052 046 049 050 053 046 055 052 046 055 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 49489392), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 32347) (PlayerY = 32222), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 37165) (OldType = 429), reason:
+Objects.cpp 280: exception occurred (Type = 37165) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 37165) (ObjectProperties->high() = 37051), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 19/11/2021 22:28:29 - ADM (168.121.148.75) -----
+Debug Assertion 8.60 Container.h 226
+Fri Nov 19 22:23:26 2021
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 030 030 030 131 180 103 109 131 131
+Last Packet: 106 068 131 217 122 010 002 097 000 000 000 000 000 054 041 001
+Player Position: [33604,31449,10]
+Player Name: ADM (New War Server)
+Player Action: 051 052 046 049 050 053 046 055 052 046 055 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 48562272), reason:
+Communication.cpp 1784: exception occurred (rx = 8) (ry = 6), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 1073817910), reason:
+Objects.cpp 604: exception occurred (Number = 1303), reason:
+Container.h 226: index out of range (original i: 1303, i: 1302, min: 1, d: 1293)
+Comment: 
+----- 23/11/2021 11:31:16 - ADM (168.121.149.232) -----
+Debug Assertion 8.60 Network.cpp 921
+Tue Nov 23 11:30:05 2021
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 100 108 100 108 030 100 108 101 109 104
+Last Packet: 108 091 132 253 122 007 001 100 091 132 252 122 007 166 001 000
+Player Position: [33883,31484,7]
+Player Name: ADM (New War Server)
+Player Action: 051 052 046 049 050 053 046 055 052 046 055 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Comment: 
+----- 27/11/2021 18:55:36 - ADM (192.168.1.3) -----
+Debug Assertion 8.60 GUI.cpp 1288
+Sat Nov 27 18:55:09 2021
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -10700F @
+Video Card: NVIDIA GeForce GTX 1660
+Last Packet Types: 104 109 104 109 104 109 180 172 172 172
+Last Packet: 109 013 001 242 000 007 001 012 001 242 000 007 104 250 017 000
+Player Position: [268,242,7]
+Player Name: ADM (solera Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 1 MaW: 2F4FA70 MoW: 303A290), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 1), reason:
+GUI.cpp 1288: dialog origin outside main window (surface: 1 x: -1050 y: 397 DrawingListLength: 9 i: 1 DrawingList.Skin: 49 DrawingList.x: 4 DrawingList.y: 0 DrawingList.width: 4009 DrawingList.height: 17 DrawingList.srcx: 0 DrawingList.srcy: 0)
+Comment: 
+----- 03/04/2022 19:54:55 - Xerecard (201.222.31.114) -----
+Debug Assertion 8.60 Objects.cpp 277
+Sun Apr 03 16:54:19 2022
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron 847 @ 1.1
+Video Card: Intel (R) HD GR
+Last Packet Types: 104 109 104 109 160 106 114 108 101 109
+Last Packet: 109 080 126 218 125 007 001 079 126 218 125 007 104 152 001 002
+Player Position: [32335,32218,7]
+Player Name: Penelope (Vegas-War)
+Player Action: 051 053 046 049 057 057 046 057 053 046 050 050 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 104) (MainWindow = 40874088), reason:
+Communication.cpp 1733: exception occurred, reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 7) (OldType = 27753), reason:
+Objects.cpp 280: exception occurred (Type = 7) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 7) (ObjectProperties->high() = 37051), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+----- 08/04/2022 00:03:41 - Penelope (201.222.31.33) -----
+Debug Assertion 8.60 Utils.cpp 531
+Thu Apr 07 21:03:24 2022
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron 847 @ 1.1
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 160 160 140 160 160 140 109 160 160
+Last Packet: 200 030 002 106 114 114 114 000 077 136 000 007 000 067 105 116
+Player Position: [32376,32206,7]
+Player Name: Penelope (Vegas-War)
+Player Action: 051 053 046 049 057 057 046 057 053 046 050 050 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 40676888), reason:
+Communication.cpp 3113: exception occurred, reason:
+Network.cpp 492: exception occurred (MaxLength = 30), reason:
+Utils.cpp 531: assertion failed (Position = 22) (Size-Length = -15971), reason:
+Position<=Size-Length
+Comment: 
+----- 10/04/2022 20:28:08 - Penelope (201.222.31.33) -----
+Debug Assertion 8.60 GUI.cpp 1288
+Sun Apr 10 11:59:39 2022
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron 847 @ 1.1
+Video Card: Intel (R) HD GR
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 1 MaW: 25CAE18 MoW: 296BBE0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 1), reason:
+GUI.cpp 1288: dialog origin outside main window (surface: 1 x: -2365 y: 396 DrawingListLength: 9 i: 1 DrawingList.Skin: 49 DrawingList.x: 4 DrawingList.y: 0 DrawingList.width: 5998 DrawingList.height: 17 DrawingList.srcx: 0 DrawingList.srcy: 0)
+Comment: 
+----- 27/04/2022 22:59:30 - Pedro (127.0.0.1) -----
+Debug Assertion 8.60 Network.cpp 921
+Wed Apr 27 20:30:26 2022
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 109 100 108 162 146 100 108 100
+Last Packet: 108 079 131 153 124 006 001 100 079 131 155 124 006 061 080 042
+Player Position: [33615,31899,6]
+Player Name: Pedro (Vegas-War)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Comment: 

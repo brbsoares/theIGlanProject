@@ -1,0 +1,98 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/Order-Global/src/actions.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/actions.cpp.o"
+  "/home/Order-Global/src/ban.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/ban.cpp.o"
+  "/home/Order-Global/src/baseevents.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/baseevents.cpp.o"
+  "/home/Order-Global/src/bed.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/bed.cpp.o"
+  "/home/Order-Global/src/chat.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/chat.cpp.o"
+  "/home/Order-Global/src/combat.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/combat.cpp.o"
+  "/home/Order-Global/src/condition.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/condition.cpp.o"
+  "/home/Order-Global/src/configmanager.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/configmanager.cpp.o"
+  "/home/Order-Global/src/connection.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/connection.cpp.o"
+  "/home/Order-Global/src/container.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/container.cpp.o"
+  "/home/Order-Global/src/creature.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/creature.cpp.o"
+  "/home/Order-Global/src/creatureevent.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/creatureevent.cpp.o"
+  "/home/Order-Global/src/cylinder.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/cylinder.cpp.o"
+  "/home/Order-Global/src/database.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/database.cpp.o"
+  "/home/Order-Global/src/databasemanager.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/databasemanager.cpp.o"
+  "/home/Order-Global/src/databasetasks.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/databasetasks.cpp.o"
+  "/home/Order-Global/src/depotchest.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/depotchest.cpp.o"
+  "/home/Order-Global/src/depotlocker.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/depotlocker.cpp.o"
+  "/home/Order-Global/src/events.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/events.cpp.o"
+  "/home/Order-Global/src/fileloader.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/fileloader.cpp.o"
+  "/home/Order-Global/src/game.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/game.cpp.o"
+  "/home/Order-Global/src/globalevent.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/globalevent.cpp.o"
+  "/home/Order-Global/src/groups.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/groups.cpp.o"
+  "/home/Order-Global/src/guild.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/guild.cpp.o"
+  "/home/Order-Global/src/house.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/house.cpp.o"
+  "/home/Order-Global/src/housetile.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/housetile.cpp.o"
+  "/home/Order-Global/src/inbox.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/inbox.cpp.o"
+  "/home/Order-Global/src/ioguild.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/ioguild.cpp.o"
+  "/home/Order-Global/src/iologindata.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/iologindata.cpp.o"
+  "/home/Order-Global/src/iomap.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/iomap.cpp.o"
+  "/home/Order-Global/src/iomapserialize.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/iomapserialize.cpp.o"
+  "/home/Order-Global/src/item.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/item.cpp.o"
+  "/home/Order-Global/src/items.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/items.cpp.o"
+  "/home/Order-Global/src/luascript.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/luascript.cpp.o"
+  "/home/Order-Global/src/mailbox.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/mailbox.cpp.o"
+  "/home/Order-Global/src/map.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/map.cpp.o"
+  "/home/Order-Global/src/monster.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/monster.cpp.o"
+  "/home/Order-Global/src/monsters.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/monsters.cpp.o"
+  "/home/Order-Global/src/movement.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/movement.cpp.o"
+  "/home/Order-Global/src/networkmessage.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/networkmessage.cpp.o"
+  "/home/Order-Global/src/npc.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/npc.cpp.o"
+  "/home/Order-Global/src/otpch.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/otpch.cpp.o"
+  "/home/Order-Global/src/otserv.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/otserv.cpp.o"
+  "/home/Order-Global/src/outfit.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/outfit.cpp.o"
+  "/home/Order-Global/src/outputmessage.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/outputmessage.cpp.o"
+  "/home/Order-Global/src/party.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/party.cpp.o"
+  "/home/Order-Global/src/player.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/player.cpp.o"
+  "/home/Order-Global/src/position.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/position.cpp.o"
+  "/home/Order-Global/src/protocol.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocol.cpp.o"
+  "/home/Order-Global/src/protocolgame.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocolgame.cpp.o"
+  "/home/Order-Global/src/protocollogin.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocollogin.cpp.o"
+  "/home/Order-Global/src/protocolold.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocolold.cpp.o"
+  "/home/Order-Global/src/protocolspectator.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocolspectator.cpp.o"
+  "/home/Order-Global/src/protocolstatus.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/protocolstatus.cpp.o"
+  "/home/Order-Global/src/quests.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/quests.cpp.o"
+  "/home/Order-Global/src/raids.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/raids.cpp.o"
+  "/home/Order-Global/src/reward.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/reward.cpp.o"
+  "/home/Order-Global/src/rewardchest.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/rewardchest.cpp.o"
+  "/home/Order-Global/src/rsa.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/rsa.cpp.o"
+  "/home/Order-Global/src/scheduler.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/scheduler.cpp.o"
+  "/home/Order-Global/src/scriptmanager.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/scriptmanager.cpp.o"
+  "/home/Order-Global/src/server.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/server.cpp.o"
+  "/home/Order-Global/src/signals.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/signals.cpp.o"
+  "/home/Order-Global/src/spawn.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/spawn.cpp.o"
+  "/home/Order-Global/src/spells.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/spells.cpp.o"
+  "/home/Order-Global/src/talkaction.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/talkaction.cpp.o"
+  "/home/Order-Global/src/tasks.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/tasks.cpp.o"
+  "/home/Order-Global/src/teleport.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/teleport.cpp.o"
+  "/home/Order-Global/src/thing.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/thing.cpp.o"
+  "/home/Order-Global/src/tile.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/tile.cpp.o"
+  "/home/Order-Global/src/tools.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/tools.cpp.o"
+  "/home/Order-Global/src/trashholder.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/trashholder.cpp.o"
+  "/home/Order-Global/src/vocation.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/vocation.cpp.o"
+  "/home/Order-Global/src/waitlist.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/waitlist.cpp.o"
+  "/home/Order-Global/src/weapons.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/weapons.cpp.o"
+  "/home/Order-Global/src/wildcardtree.cpp" "/home/Order-Global/src/CMakeFiles/tfs.dir/wildcardtree.cpp.o"
+  "/home/Order-Global/src/cotire/tfs_CXX_prefix.hxx" "/home/Order-Global/src/cotire/tfs_CXX_prefix.hxx.gch"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/usr/include/mysql"
+  "/usr/include/luajit-2.1"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

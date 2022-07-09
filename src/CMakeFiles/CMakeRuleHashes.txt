@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+ecec5b49110f1ca4b16d18320437df1b CMakeFiles/clean_cotire
+0c60545f534d5aee186f722b65288585 CMakeFiles/tfs_pch
+127f7aad0b29bdba8153f721d4a1ef6a cotire/tfs_CXX_prefix.cxx
+3948946110c5d5e4b24a70999626f304 cotire/tfs_CXX_prefix.hxx
+7365d6a5320e9798ec456bc87a6b9ded cotire/tfs_CXX_prefix.hxx.gch

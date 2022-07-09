@@ -1,0 +1,8 @@
+/home/Order-Global/src/CMakeFiles/edit_cache.dir
+/home/Order-Global/src/CMakeFiles/all_pch.dir
+/home/Order-Global/src/CMakeFiles/rebuild_cache.dir
+/home/Order-Global/src/CMakeFiles/tfs.dir
+/home/Order-Global/src/CMakeFiles/clean_cotire.dir
+/home/Order-Global/src/CMakeFiles/tfs_pch.dir
+/home/Order-Global/src/src/CMakeFiles/rebuild_cache.dir
+/home/Order-Global/src/src/CMakeFiles/edit_cache.dir
